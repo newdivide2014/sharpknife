@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "沙普奶夫"
+theme = "persian-hugo"
