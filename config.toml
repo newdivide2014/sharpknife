@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://www.example.com"
 title = "Persian"
-theme = "persian"
+theme = "persian-hugo"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
