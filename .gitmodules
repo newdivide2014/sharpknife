@@ -1,0 +1,3 @@
+[submodule "themes/persian-hugo"]
+	path = themes/persian-hugo
+	url = https://github.com/gethugothemes/persian-hugo.git
