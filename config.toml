@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://www.example.com"
-title = "Persian"
+baseURL = "https://newdivide2014.github.io"
+title = "沙普奶夫"
 theme = "persian-hugo"
 languageName = "En"
 languageCode = "en-us"
