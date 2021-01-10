@@ -1,88 +1,102 @@
-######################## default configuration ####################
+# This is a simple configuration.
+# If you want to see the full configuration, please check `full-config.toml` .
+# And see https://gohugo.io/getting-started/configuration/ .
+
 baseURL = "https://newdivide2014.github.io"
-title = "沙普奶夫"
-theme = "persian-hugo"
-languageName = "En"
-languageCode = "en-us"
-# post pagination
-paginate = "5"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
+title = "卡斯学习"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "jane"
 
-############################# output ##############################
-[outputs]
-home = [ "HTML", "RSS", "json"]
+hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
+paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
+rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
+disqusShortname = ""      # disqus_shortname
+googleAnalytics = ""      # UA-XXXXXXXX-X
+copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
-# render unsafe html
-[markup.goldmark.renderer]
-unsafe = true
+# language support # en / zh-cn / other... translations present in i18n/
+defaultContentLanguage = "zh-cn"           # Default language to use
+[languages.zh-cn]
+  languageCode = "zh-cn"
 
-############################# Plugins ##############################
-# CSS Plugins
-[[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
-[[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
+[author]                  # essential                     # 必需
+  name = "卡斯"
 
-# JS Plugins
-[[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
-[[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
-[[params.plugins.js]]
-link = "plugins/search/fuse.min.js"
-[[params.plugins.js]]
-link = "plugins/search/mark.js"
-[[params.plugins.js]]
-link = "plugins/search/search.js"
+[sitemap]                 # essential                     # 必需
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
-
-################################ menu ##################################
+[[menu.main]]             # config your menu              # 配置目录
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
-
+  name = "Archives"
+  weight = 20
+  identifier = "archives"
+  url = "/post/"
 [[menu.main]]
-name = "About"
-url = "about"
-weight = 2
-
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
 [[menu.main]]
-name = "Category"
-url = "categories/nature/"
-weight = 3
-
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
 [[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 4
-
-[[menu.main]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 5
+  name = "external-link"
+  weight = 50
+  url = "https://gohugo.io"
 
 
-#################### default parameters ################################
 [params]
-logo = "images/logo.png"
-# Meta data
-description = "This is meta description"
-author = "Themefisher"
-# search  
-search = true
-# contact form action
-contact_form_action = "#" # contact form works with https://formspree.io
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+  since = "2021"            # Site creation time          # 站点建立时间
+  homeFullContent = false   # if false, show post summaries on home page. Otherwise show full content.
+  rssFullContent = true     # if false, Rss feed instead of the summary
 
-# Preloader
-[params.preloader]
-enable = true
-preloader = "" # use jpg, png, svg or gif format.
+  # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
+  logoTitle = ""        # default: the title value    # 默认值: 上面设置的title值
+  keywords = ["Hugo", "theme","jane"]
+  description = "Hugo theme jane example site."
 
-# cookies
-[params.cookies]
-enable = true
-expire_days = 2
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
+  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+  toc = true                                                                            # 是否开启目录
+  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
+  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+
+  # Link custom CSS and JS assets
+  #   (relative to /static/css and /static/js respectively)
+  customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
+  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+
+  [params.social]                                         # 社交链接
+    a-email = "newdivide7037@gmail.com"
+   # b-stack-overflow = "http://localhost:1313"
+   # c-twitter = "http://localhost:1313"
+   # d-facebook = "http://localhost:1313"
+   # e-linkedin = "http://localhost:1313"
+   # f-google = "http://localhost:1313"
+   # g-github = "http://localhost:1313"
+   # h-weibo = "http://localhost:1313"
+   # i-zhihu = "http://localhost:1313"
+   # j-douban = "http://localhost:1313"
+   # k-pocket = "http://localhost:1313"
+   # l-tumblr = "http://localhost:1313"
+   # m-instagram = "http://localhost:1313"
+   # n-gitlab = "http://localhost:1313"
+   # o-goodreads = "http://localhost:1313"
+   # p-coding = "http://localhost:1313"
+   # q-bilibili = "http://localhost:1313"
+   # r-codeforces = "http://localhost:1313"
+   # s-mastodon = "http://localhost:1313"
+   # t-youtube = "http://localhost:1313"
+   # u-twitch = "http://localhost:1313"

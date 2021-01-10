@@ -1,6 +1,6 @@
-[submodule "themes/persian-hugo"]
-	path = themes/persian-hugo
-	url = https://github.com/gethugothemes/persian-hugo.git
 [submodule "newdivide2014.github.io"]
 	path = newdivide2014.github.io
 	url = https://github.com/newdivide2014/newdivide2014.github.io.git
+[submodule "themes/jane"]
+	path = themes/jane
+	url = https://github.com/xianmin/hugo-theme-jane.git
