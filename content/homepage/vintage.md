@@ -3,9 +3,9 @@ title = "Vintage"
 weight = 3
 draft = false
 
-slogan = "We are all in the gutter, but some of us are looking at the stars."
-imgLeft = "images/hero-left.jpg"
-imgRight = "images/hero-right.jpg"
+slogan = "国 际 庄 加 油！！！"
+# imgLeft = "images/hero-left.jpg"
+# imgRight = "images/hero-right.jpg"
 
 [widget]
   handler = "vintage"
