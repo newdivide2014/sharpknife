@@ -3,7 +3,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "https://newdivide2014.github.io"
-title = "卡斯学习"
+title = "Just do IT"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -11,14 +11,105 @@ theme = "jane"
 hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
 paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
 rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-disqusShortname = ""      # disqus_shortname
+disqusShortname = "卡斯"      # disqus_shortname
 googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
-# language support # en / zh-cn / other... translations present in i18n/
-defaultContentLanguage = "zh-cn"           # Default language to use
+
+
+# language support en / zh-cn / other... translations present in i18n/
+defaultContentLanguage = "zh-cn"  # Default language to use (if you setup multilingual support)
+[langusges]
 [languages.zh-cn]
-  languageCode = "zh-cn"
+  title = "卡斯学习"
+  languageName = "中文"
+  contentDir = "content/zh-cn"
+  weight = 1
+
+
+[[languages.zh-cn.menu.main]]
+  name = "主页"
+  weight = 10
+  identifier = "home"
+  url = "zh-cn/"
+[[languages.zh-cn.menu.main]]
+  name = "归档"
+  weight = 20
+  identifier = "archives"
+  url = "/post/"
+[[languages.zh-cn.menu.main]]
+  name = "标签"
+  weight = 30
+  identifier = "tags"
+  url = "/tags/"
+[[languages.zh-cn.menu.main]]
+  name = "分类"
+  weight = 40
+  identifier = "categories"
+  url = "/categories/"
+#[[languages.zh-cn.menu.main]]
+#  name = "外部链接"
+#  weight = 50
+#  url = "https://gohugo.io"
+[[languages.zh-cn.menu.main]]
+  name = "关于"
+  identifier = "about"
+  pre = "<i class='fa fa-heart'></i>"
+  weight = 50
+  url = "/about/"
+
+
+[languages.en]
+  title = "Just do IT, u known it"
+  languageName = "English"
+  contentDir = "content/en"
+  weight = 2
+
+[[languages.en.menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "en/"
+
+#[[languages.en.menu.main]]
+#  name = "Docs"
+#  weight = 11
+#  identifier = "docs"
+#  url = "en/categories/docs/"
+
+# docs submenu
+#[[languages.en.menu.main]]
+#  name = "Jane Theme Preview"
+#  weight = 12
+#  parent = "docs"
+#  url = "en/post/jane-theme-preview/"
+
+[[languages.en.menu.main]]
+  name = "Archives"
+  weight = 20
+  identifier = "archives"
+  url = "en/post/"
+[[languages.en.menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  url = "en/tags/"
+[[languages.en.menu.main]]
+  name = "Categories"
+  weight = 40
+  identifier = "categories"
+  url = "en/categories/"
+#[[languages.en.menu.main]]
+#  name = "external-link"
+#  weight = 50
+#  url = "https://gohugo.io"
+[[languages.en.menu.main]]
+  name = "About"
+  identifier = "about"
+  pre = "<i class='fa fa-heart'></i>"
+  weight = 50
+  url = "en/about/"
+
 
 [author]                  # essential                     # 必需
   name = "卡斯"
@@ -28,32 +119,6 @@ defaultContentLanguage = "zh-cn"           # Default language to use
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]             # config your menu              # 配置目录
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  url = "/"
-[[menu.main]]
-  name = "Archives"
-  weight = 20
-  identifier = "archives"
-  url = "/post/"
-[[menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  url = "/tags/"
-[[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
-[[menu.main]]
-  name = "external-link"
-  weight = 50
-  url = "https://gohugo.io"
-
-
 [params]
   since = "2021"            # Site creation time          # 站点建立时间
   homeFullContent = false   # if false, show post summaries on home page. Otherwise show full content.
@@ -61,15 +126,25 @@ defaultContentLanguage = "zh-cn"           # Default language to use
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = ""        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","jane"]
-  description = "Hugo theme jane example site."
+  keywords = ["卡斯"]
+  description = "卡斯学习记录"
+
+ # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
+  archive-paginate = 10
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2006-01-02"
 
+  # show word count and read time ?                       # 是否显示字数统计与阅读时间
+  moreMeta = true
+
+  # show language chooser in menu
+  showMenuLanguageChooser = true
+
   # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
-  toc = true                                                                            # 是否开启目录
+  toc = true  
+  comment = true                                                                          # 是否开启目录
   photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
