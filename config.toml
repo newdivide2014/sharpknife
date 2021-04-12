@@ -21,7 +21,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 defaultContentLanguage = "zh-cn"  # Default language to use (if you setup multilingual support)
 [langusges]
 [languages.zh-cn]
-  title = "卡斯学习"
+  title = "卡卡💳"
   languageName = "中文"
   contentDir = "content/zh-cn"
   weight = 1
@@ -60,7 +60,7 @@ defaultContentLanguage = "zh-cn"  # Default language to use (if you setup multil
 
 
 [languages.en]
-  title = "Just do IT, u known it"
+  title = "卡卡💳"
   languageName = "English"
   contentDir = "content/en"
   weight = 2

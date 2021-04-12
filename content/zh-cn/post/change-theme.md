@@ -7,7 +7,7 @@ tags: ["hugo theme"]
 categories: ["hugo theme"]
 author: "卡斯"
 
-weight: 1
+# weight: 1
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
