@@ -15,10 +15,14 @@ comment: true
 toc: true
 autoCollapseToc: false
 # You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: true
+# contentCopyright: true
 reward: false
 mathjax: false
 ---
+
+话不多说，献上狗子~
+
+![dog](/images/post/DSC_0803.JPG)
 
 将 /etc/ 内的所有档案备份下来，并且保存其权限！
 
