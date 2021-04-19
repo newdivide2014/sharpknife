@@ -1,177 +1,151 @@
-# This is a simple configuration.
-# If you want to see the full configuration, please check `full-config.toml` .
-# And see https://gohugo.io/getting-started/configuration/ .
-
 baseURL = "https://newdivide2014.github.io"
-title = "Just do IT"
-enableRobotsTXT = true
+title = "嘟囔"
+
+theme = "fuji"
+hasCJKLanguage = true
 enableEmoji = true
-theme = "jane"
+enableRobotsTXT = true
+# disableKinds = ["taxonomy"]
+# ignoreErrors = ["error-disable-taxonomy"]
 
-hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否包含 中文\日文\韩文
-paginate = 3              # Number of articles displayed on the homepage  # 首页每页显示的文章数
-rssLimit = 20             # Limit Entry Count to Rss file # 限制 Rss 文章输出数量
-disqusShortname = "卡斯"      # disqus_shortname
-googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
+## Change this two to switch between different language
+# languageCode = "en"  # For RSS, view https://www.rssboard.org/rss-language-codes
+ defaultContentLanguage = "en"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl, pl
+ languageCode = "zh-cn"
+# defaultContentLanguage = "zh-hans"
 
+summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
+paginate = 10
 
+# googleAnalytics = "UA-000000000-0" # Set your Google Analytics UA here
 
-# language support en / zh-cn / other... translations present in i18n/
-defaultContentLanguage = "zh-cn"  # Default language to use (if you setup multilingual support)
-[langusges]
-[languages.zh-cn]
-  title = "卡卡💳"
-  languageName = "中文"
-  contentDir = "content/zh-cn"
-  weight = 1
+[outputFormats]
+  [outputFormats.SearchIndex]
+    isPlainText = true
+    notAlternative = true
+    mediaType = "application/json"
+    path = "/search/"
 
+[outputs]
+  home = ["HTML", "RSS", "SearchIndex"]
 
-[[languages.zh-cn.menu.main]]
-  name = "主页"
-  weight = 10
-  identifier = "home"
-  url = "zh-cn/"
-[[languages.zh-cn.menu.main]]
-  name = "归档"
-  weight = 20
-  identifier = "archives"
-  url = "/post/"
-[[languages.zh-cn.menu.main]]
-  name = "标签"
-  weight = 30
-  identifier = "tags"
-  url = "/tags/"
-[[languages.zh-cn.menu.main]]
-  name = "分类"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
-#[[languages.zh-cn.menu.main]]
-#  name = "外部链接"
-#  weight = 50
-#  url = "https://gohugo.io"
-[[languages.zh-cn.menu.main]]
-  name = "关于"
-  identifier = "about"
-  pre = "<i class='fa fa-heart'></i>"
-  weight = 50
-  url = "/about/"
-
-
-[languages.en]
-  title = "卡卡💳"
-  languageName = "English"
-  contentDir = "content/en"
-  weight = 2
-
-[[languages.en.menu.main]]
-  name = "Home"
-  weight = 10
-  identifier = "home"
-  url = "en/"
-
-#[[languages.en.menu.main]]
-#  name = "Docs"
-#  weight = 11
-#  identifier = "docs"
-#  url = "en/categories/docs/"
-
-# docs submenu
-#[[languages.en.menu.main]]
-#  name = "Jane Theme Preview"
-#  weight = 12
-#  parent = "docs"
-#  url = "en/post/jane-theme-preview/"
-
-[[languages.en.menu.main]]
-  name = "Archives"
-  weight = 20
-  identifier = "archives"
-  url = "en/post/"
-[[languages.en.menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  url = "en/tags/"
-[[languages.en.menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "en/categories/"
-#[[languages.en.menu.main]]
-#  name = "external-link"
-#  weight = 50
-#  url = "https://gohugo.io"
-[[languages.en.menu.main]]
-  name = "About"
-  identifier = "about"
-  pre = "<i class='fa fa-heart'></i>"
-  weight = 50
-  url = "en/about/"
-
-
-[author]                  # essential                     # 必需
-  name = "卡斯"
-
-[sitemap]                 # essential                     # 必需
-  changefreq = "weekly"
-  priority = 0.5
-  filename = "sitemap.xml"
+[permalinks]
+  post = "/:section/:filename/" # Custom post links, e.g. "/:year/:month/:title/"
 
 [params]
-  since = "2021"            # Site creation time          # 站点建立时间
-  homeFullContent = false   # if false, show post summaries on home page. Otherwise show full content.
-  rssFullContent = true     # if false, Rss feed instead of the summary
+  author = "嘟囔" # You can also set author in post front matter individually
+  subTitle = "一路朗月清风似明昭"
 
-  # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = ""        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["卡斯"]
-  description = "卡斯学习记录"
+  # Source URL of the website, will appear in the footer
+  # sourceURL = "https://github.com/itsme/my_blog"
 
- # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
-  archive-paginate = 10
+  # Use CloudFlare Workers to accelerate the Google Analytics
+  # If you are using this please comment the googleAnalytics above
+  # Check https://github.com/SukkaW/cloudflare-workers-async-google-analytics for more details
+  # googleAnalyticsTid = "UA-000000000-0"
+  # googleAnalyticsRoute = "https://*.*.workers.dev/"
 
-  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
+  # Google AdSense
+  # The AdSense code will be inserted between the head tags of your site.
+  # googleAdsense = "0000000000000000"
 
-  # show word count and read time ?                       # 是否显示字数统计与阅读时间
-  moreMeta = true
+  # Word counter and read time indicator in post metadata
+  showWordCounter = true
+  showReadTime = true
 
-  # show language chooser in menu
-  showMenuLanguageChooser = true
+  # License in the footer
+  showLicenseInFooter = false
 
-  # 一些全局开关，你也可以在每一篇内容的 front matter 中针对单篇内容关闭或开启某些功能，在 archetypes/default.md 查看更多信息。
-  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
-  toc = true  
-  comment = true                                                                          # 是否开启目录
-  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe            # 是否启用PhotoSwipe（图片可点击）
-  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+  # License at the end of each post
+  showLicense = true
+  showToc = true
 
-  # Link custom CSS and JS assets
-  #   (relative to /static/css and /static/js respectively)
-  customCSS = []            # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+  # Copyright
+  copyrightStartYear = "2020"
 
-  [params.social]                                         # 社交链接
-    a-email = "newdivide7037@gmail.com"
-   # b-stack-overflow = "http://localhost:1313"
-   # c-twitter = "http://localhost:1313"
-   # d-facebook = "http://localhost:1313"
-   # e-linkedin = "http://localhost:1313"
-   # f-google = "http://localhost:1313"
-   # g-github = "http://localhost:1313"
-   # h-weibo = "http://localhost:1313"
-   # i-zhihu = "http://localhost:1313"
-   # j-douban = "http://localhost:1313"
-   # k-pocket = "http://localhost:1313"
-   # l-tumblr = "http://localhost:1313"
-   # m-instagram = "http://localhost:1313"
-   # n-gitlab = "http://localhost:1313"
-   # o-goodreads = "http://localhost:1313"
-   # p-coding = "http://localhost:1313"
-   # q-bilibili = "http://localhost:1313"
-   # r-codeforces = "http://localhost:1313"
-   # s-mastodon = "http://localhost:1313"
-   # t-youtube = "http://localhost:1313"
-   # u-twitch = "http://localhost:1313"
+  # Open Graph & Twitter Card variables
+  # You can also set description and images in post front matter individually
+  description = "A minimal Hugo theme with nice theme color."
+  og = "/img/og.png" # This will use the image called og.png in static/img folder
+
+  # Posts shown in homepage
+  mainSections = ["zh-cn"]
+
+  # Bangumi image chart id
+  # bgmImageChart = "000000"
+
+  # License
+  license = "CC BY-NC-SA 4.0"
+  licenseLink = "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+  # Comments
+  # utterances, see: https://utteranc.es/
+  # utterancesRepo = "*/*"
+  # utterancesIssueTerm = "pathname"
+
+  # Disqus, see: https://disqus.com/admin/install/platforms/universalcode/
+  # disqusShortname = "*********"
+  # Also use DisqusJS for accessing from Mainland China, see: https://github.com/SukkaW/DisqusJS
+  # If you want to set multiple api key, see theme's README for more details
+  # disqusJSApi = "https://*********/"
+  # disqusJSApikey = "**********"
+
+  # custom lazyload placeholder
+  # 16:9
+  lazyPlaceholder = "/assets/lazyload/dsrca_loading_480x270.svg"
+  # 32:9
+  lazyPlaceholderRow = "/assets/lazyload/dsrca_loading_960x270.svg"
+  # 8:9
+  lazyPlaceholderCol = "/assets/lazyload/dsrca_loading_480x540.svg"
+
+  # Let images display in full brightness under dark mode
+  disableDarkImage = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content
+  [markup.highlight]
+    codeFences = false  # Disable Hugo's code highlighter
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[taxonomies]
+  tag = "tags"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "Archives"
+    url = "/archives/"
+    weight = 2
+  [[menu.nav]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.nav]]
+    name = "Search"
+    url = "/search/"
+    weight = 4
+  #[[menu.nav]]
+  #  name = "RSS"
+  #  url = "/index.xml"
+  #  weight = 5
+
+  [[menu.link]]
+    name = "Email"
+    url = "newdivide7037@gmail.com"
+    weight = 1
+  #[[menu.link]]
+  #  name = "Twitter"
+  #  url = "https://twitter.com/dsrkafuu"
+  #  weight = 2
+  #[[menu.link]]
+  #  name = "bilibili"
+  #  url = "https://space.bilibili.com/19767474"
+  #  weight = 3
