@@ -7,7 +7,7 @@ keywords: [“git submodule”]
 description: "git submodule基本使用"
 tags: ["git submodule"]
 categories: ["git"]
-author: "卡斯"
+author: "嘟囔"
 
 
 # You can also close(false) or open(true) something for this content.
