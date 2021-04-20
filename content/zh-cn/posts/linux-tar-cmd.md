@@ -7,7 +7,7 @@ keywords: ["linux cmd"]
 description: "Linux tar备忘"
 tags: ["linux cmd"]
 categories: ["linux cmd"]
-author: "卡卡"
+author: "嘟囔"
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
@@ -20,9 +20,11 @@ reward: false
 mathjax: false
 ---
 
-话不多说，献上狗子~
+
 
 ![dog](/images/post/DSC_0803.JPG)
+<!--more-->
+献上狗子~
 
 将 /etc/ 内的所有档案备份下来，并且保存其权限！
 
