@@ -9,7 +9,7 @@ author: "嘟囔"
 
 draft: false
 hidemeta: false
-comments: false
+comments: true
 description: "Desc Text."
 disableShare: false
 hideSummary: false

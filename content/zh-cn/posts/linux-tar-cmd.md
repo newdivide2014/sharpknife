@@ -24,7 +24,7 @@ mathjax: false
 
 ![dog](/images/post/DSC_0803.JPG)
 <!--more-->
-献上狗子~
+献上狗子~嘻嘻
 
 将 /etc/ 内的所有档案备份下来，并且保存其权限！
 
