@@ -1,7 +1,7 @@
 theme: PaperMod
 baseURL: "https://newdivide2014.github.io"
 title: 嘟囔
-paginate: 5
+paginate: 10
 
 defaultContentLanguage: "zh"
 
@@ -23,7 +23,7 @@ languages:
         languageName: "中文"
         weight: 1
         title: 嘟囔
-        #contentdir: "content/zh-cn/"
+        contentdir: "content/zh-cn/"
         menu:
             main:
                 - name: 搜索
