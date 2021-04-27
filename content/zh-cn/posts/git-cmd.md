@@ -4,7 +4,7 @@ date: 2021-01-16T20:30:40+08:00
 lastmod: 2021-04-21T12:46:20+08:00
 draft: false
 keywords: ["git"]
-description: "Git常用命令"
+description: "git常用命令"
 tags: ["git"]
 categories: ["git"]
 # author: "嘟囔"

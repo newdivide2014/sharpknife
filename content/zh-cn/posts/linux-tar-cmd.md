@@ -4,7 +4,6 @@ date: 2021-04-11T20:12:03+08:00
 lastmod: 2021-04-11T20:12:03+08:00
 draft: false
 keywords: ["linux cmd"]
-description: "Linux tar备忘"
 tags: ["linux cmd"]
 categories: ["linux cmd"]
 author: "嘟囔"
