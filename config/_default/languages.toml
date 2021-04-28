@@ -4,9 +4,8 @@
   weight = 2
   languagedir = "ltr"
   contentdir = "content/en"
-
-[zh-cn]
-  title = "唠叨的博客"
+[zh]
+  title = "嘟囔的博客"
   languageName = "中文"
   weight = 1
   languagedir = "ltr"

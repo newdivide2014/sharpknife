@@ -1,8 +1,8 @@
 baseURL = "https://newdivide2014.github.io"
-title = "唠叨的博客"
+title = "嘟囔的博客"
 theme = "zdoc"
 
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
