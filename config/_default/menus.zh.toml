@@ -37,7 +37,7 @@
 
 [[main]]
   identifier = "Docs"
-  name = "Doc"
+  name = "Docs"
   url = "docs"
   weight = 1
 

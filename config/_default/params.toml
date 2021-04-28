@@ -13,7 +13,7 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery"]
 
-viewportSize = "wider" # widest, wider, wide, normal, narrow
+viewportSize = "widest" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = false
 enablePinnedPosts = true
@@ -84,7 +84,7 @@ enableListSidebarTitles = true
 enableToc = true
 hideToc = false
 tocFolding = true
-tocPosition = "inner" # inner, outer
+tocPosition = "outer" # inner, outer
 enableTocSwitch = true
 enableWideBlogSwitch = true
 itemsPerCategory = 5
