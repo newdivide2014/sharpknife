@@ -4,10 +4,10 @@ date: 2021-01-16T20:30:40+08:00
 lastmod: 2021-04-21T12:46:20+08:00
 draft: false
 keywords: ["git"]
-description: "Git常用命令"
+description: "git常用命令"
 tags: ["git"]
 categories: ["git"]
-# author: "嘟囔"
+author: "嘟囔"
 
 
 ---
@@ -224,12 +224,13 @@ git submodule deinit <submodule-name>
 
 2. git add 操作时，有时会误添加一些不想提交的文件，如何解决？
 误add单个文件
-
-        git reset HEAD 将file退回到unstage区
+```
+git reset HEAD 将file退回到unstage区
+```
 误add多个文件，只撤销部分文件
-
-        git reset HEAD 将file退回到unstage区
-
+```
+git reset HEAD 将file退回到unstage区
+```
 3. windows git bash 在使用`git log`时中文乱码
 
 执行命令`export LANG=”zh_CN.UTF-8`就好了

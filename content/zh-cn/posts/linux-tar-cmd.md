@@ -4,26 +4,15 @@ date: 2021-04-11T20:12:03+08:00
 lastmod: 2021-04-11T20:12:03+08:00
 draft: false
 keywords: ["linux cmd"]
-description: "Linux tar备忘"
 tags: ["linux cmd"]
 categories: ["linux cmd"]
 author: "嘟囔"
-
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-comment: true
-toc: true
-autoCollapseToc: false
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-# contentCopyright: true
-reward: false
-mathjax: false
+authorEmoji: 👺
+image: images/post/DSC_0803.JPG
 ---
 
-
-
-![dog](/images/post/DSC_0803.JPG)
 <!--more-->
+![dog](/images/post/DSC_0803.JPG)
 献上狗子~嘻嘻
 
 将 /etc/ 内的所有档案备份下来，并且保存其权限！
