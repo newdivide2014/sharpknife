@@ -20,7 +20,7 @@ enablePinnedPosts = true
 minItemsToShowInTagCloud = 1 # Minimum items to show in tag cloud
 
 # appbar
-enableAppbarSearchIcon = true
+# enableAppbarSearchIcon = true
 enableAppbarLangIcon = true
 
 # header
@@ -65,15 +65,16 @@ typeIcon = "🎯"
 # whoami
 myname = "嘟囔"
 email = "newdivid7037@gmail.com"
-whoami = "📚Learner human"
-bioImageUrl = "images/post/DSC_0812.JPG"
+whoami = "📚Learner"
+bioImageUrl = "author.jpg"
+authorImage = "author.jpg"
 useGravatar = false
 location = "Beijing, China"
 # organization = "Hugo"
 # link = "https://zzossig.io/ko"
 
 # sidebar
-enableBio = false
+enableBio = true
 enableBioImage = true
 enableSidebar = true
 enableSidebarTags = true
@@ -81,16 +82,17 @@ enableSidebarSeries = true
 enableSidebarCategories = true
 enableHomeSidebarTitles = true
 enableListSidebarTitles = true
+enableSidebarPostsByOrder = true
+enableTocSwitch = true
+enableWideBlogSwitch = true
 enableToc = true
 hideToc = false
 tocFolding = true
 tocPosition = "outer" # inner, outer
-enableTocSwitch = true
-enableWideBlogSwitch = true
+
 itemsPerCategory = 5
 sidebarPosition = "right"
 tocLevels = ["h2", "h3", "h4"]
-enableSidebarPostsByOrder = false
 
 # footer
 showPoweredBy = true
@@ -164,7 +166,7 @@ commento = false
   dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author='true'"
 
 [socialOptions]
-  email = "newdivide7037@gmail.com"
+  email = ""
   phone = ""
   facebook = ""
   twitter = ""

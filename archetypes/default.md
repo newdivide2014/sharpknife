@@ -1,19 +1,16 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+lastmod: {{ .Date }}
 description:
 draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-tocFolding: false
-tocPosition: inner
-tocLevels: ["h2", "h3", "h4"]
+author: "嘟囔"
+authorEmoji: 👺
 tags:
 -
 series:
 -
 categories:
 -
-image:
+image: "images/"
 ---

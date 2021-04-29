@@ -1,6 +1,6 @@
 ---
-title: "Installation"
-date: 2020-01-30T00:38:25+09:00
+title: "{{ replace .Name "-" " " | title }}"
+date: {{ .Date }}
 description: Installation description
 draft: false
 weight: 1
