@@ -1,0 +1,13 @@
+    zh:
+        languageName: "中文"
+        weight: 1
+        title: 嘟囔
+        contentdir: "content/zh/"
+    en:
+        languageName: "English"
+        weight: 2
+        title: ToughMn
+        contentdir: "content/en/"
+        homeInfoParams:
+            Title: "Hi there \U0001F44B"
+            Content: Welcome to ToughMn home

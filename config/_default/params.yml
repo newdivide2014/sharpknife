@@ -1,0 +1,83 @@
+env: production # to enable google analytics, opengraph, twitter-cards and schema.
+description: "嘟囔的学习备忘录"
+author: 嘟囔
+# author: ["Me", "You"] # multiple authors
+# images: ["<link or path of image for opengraph, twitter-cards>"]
+images: ["/author.jpg"]
+DateFormat: "January 2, 2006"
+defaultTheme: auto
+# disableThemeToggle: true
+
+ShowShareButtons: true
+ShowReadingTime: true
+ShowCodeCopyButtons: true
+# disableSpecial1stPost: true
+disableScrollToTop: false
+displayFullLangName: true
+ShowPostNavLinks: true
+ShowBreadCrumbs: true
+hidemeta: false
+hideSummary: false
+comments: false
+
+
+profileMode:
+    enabled: false
+    title: PaperMod
+    imageUrl: "#"
+    imageTitle: my image
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+        - name: Archives
+          url: archives
+        - name: Tags
+          url: tags
+
+homeInfoParams:
+    Title: "一路朗月清风似明昭"
+    Content: >
+          🌟 🌟 🌟 🌟 🌟 
+            
+socialIcons:
+    # - name: github
+    #   url: "https://github.com/adityatelange/hugo-PaperMod"
+    # - name: KoFi
+    #   url: "https://ko-fi.com/adityatelange"
+    # - name: RsS
+    #   url: "index.xml"
+    - name: email
+      url: "mailto:newdivide7037@gmail.com"
+         
+
+
+    # label:
+    #     text: "Home"
+    #     icon: icon.png
+    #     iconHeight: 35
+
+    # analytics:
+    #     google:
+    #         SiteVerificationTag: "XYZabc"
+
+assets:
+    disableHLJS: true
+    #     favicon: "<link / abs url>"
+    #     favicon16x16: "<link / abs url>"
+    #     favicon32x32: "<link / abs url>"
+    #     apple_touch_icon: "<link / abs url>"
+    #     safari_pinned_tab: "<link / abs url>"
+
+    # cover:
+    #     hidden: true # hide everywhere but not in structured data
+    #     hiddenInList: true # hide on list pages and home
+    #     hiddenInSingle: true # hide on single page
+
+    # fuseOpts:
+    #     isCaseSensitive: false
+    #     shouldSort: true
+    #     location: 0
+    #     distance: 1000
+    #     threshold: 0.4
+    #     minMatchCharLength: 0
+    #     keys: ["title", "permalink", "summary", "content"]
