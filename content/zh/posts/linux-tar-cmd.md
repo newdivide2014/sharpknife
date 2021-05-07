@@ -8,12 +8,15 @@ tags: ["linux cmd"]
 categories: ["linux cmd"]
 author: "嘟囔"
 authorEmoji: 👺
-image: images/post/DSC_0803.JPG
----
+cover:
+    image: "/images/post/DSC_0803.JPG"
+    # can also paste direct link from external site
+    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+    alt: "<alt text>"
+    caption: "俺家狗子"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles
 
-<!--more-->
-![dog](/images/post/DSC_0803.JPG)
-献上狗子~嘻嘻
+---
 
 将 /etc/ 内的所有档案备份下来，并且保存其权限！
 

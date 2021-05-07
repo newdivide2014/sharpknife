@@ -1,0 +1,65 @@
+baseURL: "https://newdivide2014.github.io"
+theme: PaperMod
+title: 嘟囔
+paginate: 10
+
+defaultContentLanguage: "zh"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+# googleAnalytics: UA-123-45
+
+minify:
+    disableXML: true
+    minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    #  goldmark:
+    #     renderer:
+    #         unsafe: true
+    highlight:
+        # anchorLineNos: true
+        codeFences: true
+        guessSyntax: true
+        lineNos: true
+        # noClasses: false
+        style: monokai
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
