@@ -8,12 +8,11 @@ description:
 draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
-authorEmoji: 👺
 ShowToc: true
 TocOpen: true
 tags: ["first"]
 categories: ["hugo"]
-canonicalURL: "https://canonical.url/to/page"
+# canonicalURL: "https://canonical.url/to/page"
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
