@@ -6,7 +6,7 @@ draft: false
 tags: ["hugo theme"]
 categories: ["hugo theme"]
 author: "嘟囔"
-
+# weight: 1
 mathjax: true
 ---
 

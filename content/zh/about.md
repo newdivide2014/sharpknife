@@ -11,7 +11,7 @@ cover:
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "<alt text>"
-    caption: "这就是俺👺"
+    caption: ""
     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
