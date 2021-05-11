@@ -13,16 +13,16 @@ TocOpen: true
 tags: ["qt", "qtcreator"]
 categories: ["qt"]
 # canonicalURL: "https://canonical.url/to/page"
-cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    linkFullImages: true
-editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+# cover:
+#     image: "<image path/url>" # image path/url
+#     alt: "<alt text>" # alt text
+#     caption: "<text>" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     linkFullImages: true
+# editPost:
+#     URL: "https://github.com/<path_to_repo>/content"
+#     Text: "Suggest Changes" # edit text
+#     appendFilePath: true # to append file path to Edit link
 ---
 有道词典，滑词取词功能与QtCreator冲突，取消滑词取词功能，或直接退出有道词典！坑！
 
