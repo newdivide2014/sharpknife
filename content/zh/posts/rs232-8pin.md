@@ -14,7 +14,7 @@ tags: ["RS232"]
 categories: ["硬件相关"]
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "/images/post/DSC_0810.JPG" # image path/url
+    image: "/images/posts/DSC_0810.JPG" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true

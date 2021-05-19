@@ -4,6 +4,8 @@ title: 嘟囔
 paginate: 10
 
 defaultContentLanguage: "zh"
+defaultContentLanguageInSubdir: true
+hasCJKLanguage: true
 
 enableInlineShortcodes: true
 enableRobotsTXT: true

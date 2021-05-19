@@ -23,11 +23,11 @@ comments: false
 
 profileMode:
     enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
+    title: 嘟囔
+    imageUrl: "images/author.jpg"
+    imageTitle: 嘟囔
+    imageWidth: 120
+    imageHeight: 120
     buttons:
         - name: Archives
           url: archives
@@ -49,16 +49,14 @@ socialIcons:
     - name: email
       url: "mailto:newdivide7037@gmail.com"
          
+label:
+    text: "嘟囔"
+    icon: /images/posts/DSC_0803.JPG
+    iconHeight: 35
 
-
-    # label:
-    #     text: "Home"
-    #     icon: icon.png
-    #     iconHeight: 35
-
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+# analytics:
+#     google:
+#         SiteVerificationTag: "XYZabc"
 
 assets:
     disableHLJS: true

@@ -9,7 +9,7 @@ categories: ["linux cmd"]
 author: "嘟囔"
 authorEmoji: 👺
 cover:
-    image: "/images/post/DSC_0803.JPG"
+    image: "/images/posts/DSC_0803.JPG"
     # can also paste direct link from external site
     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
     alt: "<alt text>"
