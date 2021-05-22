@@ -18,7 +18,7 @@ defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 
 # 是否复数化列表页面的标题
-pluralizeListTitles = false
+pluralizeListTitles = true
 
 # 摘要的字数限制
 summaryLength = 200
