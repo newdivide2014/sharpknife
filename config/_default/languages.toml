@@ -1,0 +1,12 @@
+[zh]
+    languageName = "中文"
+    languageCode = "zh-CN"
+    weight = 1
+    title = "嘟囔"
+    contentdir = "content/zh/"
+[en]
+    languageName = "English"
+    languageCode = "en"
+    weight = 2
+    title =  "ToughMn"
+    contentdir = "content/en/"

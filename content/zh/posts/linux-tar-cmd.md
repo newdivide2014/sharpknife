@@ -23,3 +23,4 @@ cover:
     [root@linux ~]# tar -czvpf /tmp/etc.tar.gz /etc
     
 这个-p的属性是很重要的，尤其是当您要保留原本档案的属性时！
+![🐶](/images/post/DSC_0811.JPG)
