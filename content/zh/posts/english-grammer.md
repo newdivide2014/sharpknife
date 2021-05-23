@@ -1,7 +1,7 @@
 ---
-title: "英语语法粗记"
+title: "英语语法笔记"
 date: 2021-05-22T18:26:39+08:00
-lastmod: 2021-05-22T18:26:39+08:00
+lastmod: 2021-05-24T00:02:39+08:00
 description: "刘晓艳的语法课笔记"
 # weight: 1
 # aliases: ["/first"]
@@ -12,6 +12,7 @@ enableTOC: true
 tags: ["英语语法"]
 categories: ["English"]
 ---
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1385346331&auto=1&height=66"></iframe>
 
 
 # 简单句
@@ -42,68 +43,63 @@ categories: ["English"]
 
 ## 句子的成分（词性的问题）
 ### 谓语
-1. 谓语的成分
+1. 谓语的成分  
 **有时态的实意动词或者系动词充当谓语**
 
-2. 一句话当中的动词能不能多？
+2. 一句话当中的动词能不能多？  
 绝对不能，一句话当中只能有一个动词存在并且充当谓语。多余的动词全部都要变成非谓语动词，所以英语中有了独立主格和分词做状语。
-**谓语只能是动词，动词只能做谓语，所以需要把一句话当中所有不做谓语的动词全部都要变成不是动词的（1,+ing  2, +ed    3, +to do 非谓语动词）**
-翻译：他拍了拍我的肩膀，一句话都没说就离开了
-he beating my shoulder, saying nothing, departed.
-翻译：我爱你，你爱我
-i loving you , you love me. (独立主格)
-翻译：冬天来了，春天就不远了。
-winter approaching ,spring will be around the corner.
-翻译：我是一个老师，我喜欢唱歌
+**谓语只能是动词，动词只能做谓语，所以需要把一句话当中所有不做谓语的动词全部都要变成不是动词的（1,+ing  2, +ed    3, +to do 非谓语动词）**  
+翻译：他拍了拍我的肩膀，一句话都没说就离开了  
+he beating my shoulder, saying nothing, departed.  
+翻译：我爱你，你爱我  
+i loving you , you love me. (独立主格)  
+翻译：冬天来了，春天就不远了。  
+winter approaching ,spring will be around the corner.  
+翻译：我是一个老师，我喜欢唱歌  
 be a teacher,  i enjoy  singing.（分词做状语）
 
-3. 动词能不能少？
+3. 动词能不能少？  
 绝对不能，当一句话当中需要动词而又没有动词的时候，永远都加be动词，且be动词翻译没有意思。
 
-> ***  谓语的总结：一句话当中，有且只能有一个有时态的实意动词或者是系动词的存在，并且充当谓语。  ***
+**谓语的总结：一句话当中，有且只能有一个有时态的实意动词或者是系动词的存在，并且充当谓语。**
 
 ---
 
 ### 主语
-1. 主语的成分
-从句that who where when 
-引导词+句子
-做主语的只能四个：
-名词，代词，非谓语动词做主语，从句
-
-第二节课
-2. 一句话当中的主语能不能少
-绝对不能。一句话没有主语怎么办？
-1） 加it做主语
-必须和天气,温度,时间有关系，才能+It作为主语
-It feels strikingly cold in beijing.
-2）必须有"有"这个意思才能用there be句型
-There remain/exist/seem 这三个词都翻译成“有”
-There reamin an ocean of elements being responsible for  my perspective.
-3）没有主语可以写成被动
-Authorities should be proposed to adopt action.
-Pollution is claimed exceedingly grave by an increasing amount of individuals.
-4) x 人称代词，不可以写成被动的用人称代词解决
-如果有毅力，就一定会成功。
-if there seems persistence, glories cannot fail to be attained.
+1. 主语的成分  
+从句that who where when   
+引导词+句子  
+做主语的只能四个：名词，代词，非谓语动词做主语，从句
+2. 一句话当中的主语能不能少  
+绝对不能。一句话没有主语怎么办？  
+1） 加it做主语  
+必须和天气,温度,时间有关系，才能+It作为主语  
+It feels strikingly cold in beijing.  
+2）必须有"有"这个意思才能用there be句型  
+There remain/exist/seem 这三个词都翻译成“有”  
+There reamin an ocean of elements being responsible for  my perspective.  
+3）没有主语可以写成被动  
+Authorities should be proposed to adopt action.  
+Pollution is claimed exceedingly grave by an increasing amount of individuals.  
+4) x 人称代词，不可以写成被动的用人称代词解决  
+如果有毅力，就一定会成功。  
+if there seems persistence, glories cannot fail to be attained.  
 
 ### 宾语
-1. 做宾语的只能四个：
+1. 做宾语的只能四个：  
 名词，代词，非谓语动词，从句
 
 ### 表语
-1. 能充当表语的6个：
+1. 能充当表语的6个：  
 名词，代词，非谓语动词，从句，形容词，介词短语
 
 ### 简单句的考点分析
-1. 写作
-1）写作中所有写不来的单词都写成自己会的词汇。
-2）写不来的长难句暂时写成简单句
-2. 长难句分析
+1. 写作  
+1）写作中所有写不来的单词都写成自己会的词汇。  
+2）写不来的长难句暂时写成简单句  
+2. 长难句分析  
 1）分析长难句，先找动词，也就是谓语，从而找到这句话的主谓宾。如果一句话中找到多个动词，只需要找出主句的谓语动词。（前面没有引导词的动词就是主句的谓语动词）
-
-第三节课
-
+---
 # 并列句
 ## 什么是并列句
 用**连词**连接俩个句子的是并列句
@@ -120,33 +116,30 @@ then
 for, so, 
 
 ## 考点分析
-1. 写作
-只要写作上下句有逻辑关系，就一定要用逻辑关系词（连词、介词、介词短语、副词）
-There exist a train of companies coming from the distance so i become more than delighted.
-There exist a train of companies coming from the distance, and as a consequence, i become more than delighted.
-连词和其他的词的逻辑关系区别在于：连词的前面要么用逗号，要么什么也没有。而其他的逻辑关系词前面，要么用句号，要么加连词and
-1)平行关系的副词：
-equally,likewise, similary, at the same time, in the meanwhile
-2)转折关系的副词和介词短语：
-however, nevertheless, conversely, unexpectedly, on the contrary, by contrast
-3) 选择关系的副词和介词短语：
-alternatively
-4) 递进
-besides, furthermore, moreover, in addition, subsequently
-5) 因果
-thus, therefore, as a consequence/result, consequently
+1. 写作  
+只要写作上下句有逻辑关系，就一定要用逻辑关系词（连词、介词、介词短语、副词）  
+There exist a train of companies coming from the distance so i become more than delighted.  
+There exist a train of companies coming from the distance, and as a consequence, i become more than delighted.  
+连词和其他的词的逻辑关系区别在于：连词的前面要么用逗号，要么什么也没有。而其他的逻辑关系词前面，要么用句号，要么加连词and  
+1)平行关系的副词：  
+equally,likewise, similary, at the same time, in the meanwhile  
+2)转折关系的副词和介词短语：  
+however, nevertheless, conversely, unexpectedly, on the contrary, by contrast  
+3）选择关系的副词和介词短语：  
+alternatively  
+4）递进  
+besides, furthermore, moreover, in addition, subsequently  
+5）因果  
+thus, therefore, as a consequence/result, consequently  
+I am maintained changeable like water. on the contrary, my clarity keeps consistent.  
+Do you still keep the day in mind? I failed to pass CET4, and consequently, i shed tears alone in the rain. At the same time,  you came up to me then beat my shouleder , telling me "there exists no destination in life."  
 
-I am maintained changeable like water. on the contrary, my clarity keeps consistent.
-Do you still keep the day in mind? I failed to pass CET4, and consequently, i shed tears alone in the rain. At the same time,  you came up to me then beat my shouleder , telling me "there exists no destination in life."
-
-2. 完形填空：
-逻辑关系题的做法只需要看逻辑关系词前后两句话的意思就ok了
-3. 长难句分析
+2. 完形填空：  
+逻辑关系题的做法只需要看逻辑关系词前后两句话的意思就ok了  
+3. 长难句分析  
 只要见到有并列连词的出现，通常都会有省略，翻译的时候先把省略的补充上再做翻译。那如何查找省略的内容呢？一句话只要有省略，就一定是省略在连词后而不是连词前。所以连词后面有的成分，连词前面一定有。连词前面有而连词后没有的内容便是省略的成分。
 
-** 分析长难句第一步找动词（谓语），第二步就是找连词（当连词连接俩个单词的时候装作看不见） 。第三步是看定语， 第四步找状语。  **
-
-
+**分析长难句第一步找动词（谓语），第二步就是找连词（当连词连接俩个单词的时候装作看不见） 。第三步是看定语， 第四步找状语。**  
 如果连词后只有一个成分，连词前一定能找到它的对应成分；如果连词后有多个成分，连词前不一定都能找到它们的对应成分，但是至少能找到一个对应成分。
 
 ---
@@ -167,10 +160,10 @@ Do you still keep the day in mind? I failed to pass CET4, and consequently, i sh
 4. 充当同位语
 * i enjoy the part, the end. 同位语(同位语只能跟在名词后)
 
-同位语：用来解释名词的成分就是同位语。
-** 同位语：作文中任何一个名词的后面都可以再加一个名词作为它的同位语出现 **
+同位语：用来解释名词的成分就是同位语。  
+**同位语：作文中任何一个名词的后面都可以再加一个名词作为它的同位语出现**
 
-I like Eason，a well-know singer from HK.
+I like Eason，a well-know singer from HK.  
 My mother, a typical housewife, enjoy playing MaJong. a chinese entertainment.
 
 只要在作文中见到名词，都可以有意识的在它的后面加个同位语，对该名词进行补充说明。
@@ -220,28 +213,27 @@ glories 荣誉（glory的复数）
 [^virtue]: virtue:  n. 美德；优点；贞操；功效
 
 ---
- p21
 
 ## 四、名词性从句考点分析
 
-1. 写作：
-   1）主语从句满分句型：
-    It keeps common knowledge That ladies tend to be right.
-    主语从句的满分表达就是：把主语从句放到句末去+“It”做形式主语。
-    It keeps common knowledge that...显而易见，众所周知
-    It looks beyond dispute that...显而易见，众所周知
-    It is universally acknowledged that...
-    It has been widely accepted that...
-    It keeps my perspective that... == i think that
-    主语从句的满分句型可以写在作文中任何一句话的前面，用来拉长句子。
-    It has been widely accepted that the subject about raising pets has been brought into the limelight.
-    limelight 聚光灯，焦点的
-    It looks beyond dispute that the issue about diligence has been brought into the limelight.
+1. 写作：  
+   1）主语从句满分句型：  
+    It keeps common knowledge That ladies tend to be right.  
+    主语从句的满分表达就是：把主语从句放到句末去+“It”做形式主语。  
+    It keeps common knowledge that...显而易见，众所周知  
+    It looks beyond dispute that...显而易见，众所周知  
+    It is universally acknowledged that...  
+    It has been widely accepted that...  
+    It keeps my perspective that... == i think that  
+    主语从句的满分句型可以写在作文中任何一句话的前面，用来拉长句子。  
+    It has been widely accepted that the subject about raising pets has been brought into the limelight.  
+    limelight 聚光灯，焦点的  
+    It looks beyond dispute that the issue about diligence has been brought into the limelight.  
    
-    2）同位语从句
-    The news has been spread the whole village that her husband passed away .
-    The outlook that individuals from henan province[^province] tends to be deceivers[^deceivers] remains wrong.
-    The matter that he managed to find a girlfriend  makes his superiors[^superiors] rejoiced[^rejoiced].
+    2）同位语从句  
+    The news has been spread the whole village that her husband passed away .  
+    The outlook that individuals from henan province[^province] tends to be deceivers[^deceivers] remains wrong.  
+    The matter that he managed to find a girlfriend  makes his superiors[^superiors] rejoiced[^rejoiced].  
 
    [^province]: province： 人民
    [^deceivers]: deceivers: 骗子
@@ -249,54 +241,53 @@ glories 荣誉（glory的复数）
    [^rejoiced]: rejoiced: 开心
 
 
-    同位语从句既可放在它所解释的名词后，也可以放到整句话后面。
+    同位语从句既可放在它所解释的名词后，也可以放到整句话后面。  
     Nothing can hide the truth that she is getting old.
 
-2. 同位语从句在写作中的应用
-温室里的花朵不能经受风雨，这个事实表明我们不应该溺爱孩子。
-The evidence that flowers in the greenhouse fail to undergo/endure storms demonstrates that kids should never be spoiled.
-The evidence indicates flowers in the greehouse fail to undergo stroms that kids should by no means be spoiled by their senior citizens.
-穿自己的鞋不仅方便，而且确保了一点，不用去管别人的感受
-Wearing my own shoes proves not only convenient but also ensures a point that the feelings of others can be ignored.
+2. 同位语从句在写作中的应用  
+温室里的花朵不能经受风雨，这个事实表明我们不应该溺爱孩子。  
+The evidence that flowers in the greenhouse fail to undergo/endure storms demonstrates that kids should never be spoiled.  
+The evidence indicates flowers in the greehouse fail to undergo stroms that kids should by no means be spoiled by their senior citizens.  
+穿自己的鞋不仅方便，而且确保了一点，不用去管别人的感受  
+Wearing my own shoes proves not only convenient but also ensures a point that the feelings of others can be ignored.  
 
-3. 长难句分析
-   能够快速的识别各个名词性从句并且把他们通顺的翻译出来
-   1） 如何识别主语从句
-    识别主语从句：只要见到有引导词放在句首，并且从句中没有被“，”逗号隔开，就绝对是主语从句。
-    主语从句的从句首开始到主句的谓语动词之前结束。
-    除此以外，见到It...that通常都是主语从句，主语从句从that开始到句末结束。
-    driving force 驱动力
-   2）如何识别宾语
-      宾语是谓语动词的承受者。
-      只有宾语从句的that可以省略（正式英语不能省略）
-      只要实意动词后面有个引导词就暂定为宾语从句（状语从句还没有讲哟）
-   3）如何识别表语
-   > p25
+3. 长难句分析  
+   能够快速的识别各个名词性从句并且把他们通顺的翻译出来  
+   1） 如何识别主语从句  
+    识别主语从句：只要见到有引导词放在句首，并且从句中没有被“，”逗号隔开，就绝对是主语从句。  
+    主语从句的从句首开始到主句的谓语动词之前结束。  
+    除此以外，见到It...that通常都是主语从句，主语从句从that开始到句末结束。  
+    driving force 驱动力  
+   2）如何识别宾语  
+      宾语是谓语动词的承受者。  
+      只有宾语从句的that可以省略（正式英语不能省略）  
+      只要实意动词后面有个引导词就暂定为宾语从句（状语从句还没有讲哟）  
+   3）如何识别表语  
+   只要系动词后面有个引导词就是表语从句。  
+   courteous 彬彬有礼的，客气的  
+   glory 成就，荣耀  
+   occupy 占领，占据  
+   be preoccupied by sth. 全神贯注做某事  
+   integrate 结合，联合  
+   victims 牺牲品，受害者  
 
-   只要系动词后面有个引导词就是表语从句。
-   courteous 彬彬有礼的，客气的
-   glory 成就，荣耀
-   occupy 占领，占据
-   be preoccupied by sth. 全神贯注做某事
-   integrate 结合，联合
-   victims 牺牲品，受害者
+   4）如何识别同位语  
+   只要名词后面有个引导词，就暂定为同位语从句（更可能是定语从句哦）。  
+   formulate 阐述，形成，制定用公式表示制订明确地表达  
+   disguise 掩饰；假装；隐瞒  
+   rests on 取决于  
+   specific 具体的  
+   exaggerate 夸大，夸张  
+   verdict 结论；裁定  
+   interpret 口译，解释  
+   subject to 遭受，指派，使服从；使遭受；受…管制  
+   be exposed to 接触，遭受，暴露，面对  
+   modify 改造，修改，修饰；更改  
+   elegant 优雅的  
+   emphasis 重视  
+   in doing sth 在。。。过程中  
 
-   4）如何识别同位语
-   只要名词后面有个引导词，就暂定为同位语从句（更可能是定语从句哦）。
-   formulate 阐述，形成，制定用公式表示制订明确地表达
-   disguise 掩饰；假装；隐瞒
-   rests on 取决于
-   specific 具体的
-   exaggerate 夸大，夸张
-   verdict 结论；裁定
-   interpret 口译，解释
-   subject to 遭受，指派，使服从；使遭受；受…管制
-   be exposed to 接触，遭受，暴露，面对
-   modify 改造，修改，修饰；更改
-   elegant 优雅的
-   emphasis 重视
-   in doing sth 在。。。过程中
-
+---
 
 # 定语从句
 
@@ -308,9 +299,9 @@ Wearing my own shoes proves not only convenient but also ensures a point that th
 
 ### 1. 形容词作定语（6属于这里的）
 
-1. 那只善良的夜莺失去了生命
+1. 那只善良的夜莺失去了生命  
 The innocent nightingale died.
-2. 那只善良和勇敢的夜莺失去了生命
+2. 那只善良和勇敢的夜莺失去了生命  
 The nightingale brave and innocent died.
 
 ### 2、名词（短语）作定语
@@ -363,18 +354,15 @@ n. + 引导词 + 句子从句
 2. 副词（在从句中不能充当任何主干成分）：where when why
 3. 形容词（在从句中修饰离它最近的名词）：whose
 
-1. The rose that/which the nightingale exchanged with hie life was discarded.
+1. The rose that/which the nightingale exchanged with hie life was discarded.  
 **介词短语不能做宾语**
 2. Buildings whose roofs are round look beautiful. 
 3. It has been validated by numerous facts that glories belong to those with dreams.
-
-> p31
-
-1. Wearing my own shoes proves not only convenient but also ensures a point that the feelings of others can be ignored.
-2. The point of the issue seems who should be responsible for the decline of ethics[^ethics].
-3. He whose appearance looks indecent[^indecent] proves noble in his mind.
-4. It seems indispensable that those who spare no efforts[^spare] to realize their dreams never feel pitiful[^pitiful] although they fail to achieve glories.
-5. Students who fail to concentrate in class but wish to pass examinations smoothly tend to find that the consequence proves less impressive.
+4. Wearing my own shoes proves not only convenient but also ensures a point that the feelings of others can be ignored.
+5. The point of the issue seems who should be responsible for the decline of ethics[^ethics].
+6. He whose appearance looks indecent[^indecent] proves noble in his mind.
+7. It seems indispensable that those who spare no efforts[^spare] to realize their dreams never feel pitiful[^pitiful] although they fail to achieve glories.
+8. Students who fail to concentrate in class but wish to pass examinations smoothly tend to find that the consequence proves less impressive.
 
 [^ethics]: ethics: 道德
 [^indecent]: indecent: 邋遢的，不体面的
@@ -384,13 +372,13 @@ n. + 引导词 + 句子从句
 ## 定语从句的特殊用法
 
 ### 1. that做引导词时的省略
-that在引导定语从句时，如果在从句中充当的是宾语，that可以省略。
-I engoy the book ~~that~~ my ma bought for me.
+that在引导定语从句时，如果在从句中充当的是宾语，that可以省略。  
+I engoy the book ~~that~~ my ma bought for me.  
 在分析长难句时，如果见到有俩个名词/代词直接放在一起，中间没有被连词/标点符号隔开，通常都是省略了that的定语从句。
 
 ### 2. 区别限制和非限制性定语从句
-I love liu, who is ...
-... who is ...
+I love liu, who is ...  
+... who is ...  
 在分析长难句时，非限制性定语从句就相当于插入语可以完全不看。
 
 ### 3.先行词和引导词之间有介词的情况
@@ -405,17 +393,19 @@ I love liu, who is ...
 `that`翻译为是
 
 ### 5. as和which引导的非限制性定语从句
-which引导的非限制性定语从句可以修饰前面整个句子，as也可以。但是which只能放在主句的后面，而as则可前可后。
+which引导的非限制性定语从句可以修饰前面整个句子，as也可以。但是which只能放在主句的后面，而as则可前可后。  
 He enjoy talking with young ladies, which drives me mad.
 
 ### 6. 定语从句中引导词which和that的区别
 没必要知道（老师说的）
 
 ### 7. 区别定语从句和同位语从句
-I have a dream that sounds funny.
-...............that i will become a rich lady.
+I have a dream that sounds funny.  
+...............that i will become a rich lady.  
+
 相同点：
 1. 都说先行词+引导词+句子
+ 
 不同点：
 1. 看从句本身的意思
    定语从句是对前面名词的修饰，而同位语是对前面名词意思的解释。
@@ -424,7 +414,6 @@ I have a dream that sounds funny.
 3. 定语从句的先行词可以是所有的名词， 而同位语从句的先行词只能是抽象名词
 5. 定语从句的引导词总共有8个，而同位语从句的引导词一般都是that(whether)
 
-p34
 
 ## 定语从句的至难点
 寻找先行词
@@ -440,12 +429,12 @@ p34
 
 ### 写作
 
-1. 只要在作文中见到名词，都可加个定语成分把句子拉长。
-   pets (which look cute as well as healthy) can reduce loneliness (of senior citizens(without any children)).
-   Reading books (which keep beneficial to our physical and mental health) can add knowledge of all children and adults.
-   万能定语 which/who look ...as well as .
-           名词复数 such as
-           books such as Red and Black
+1. 只要在作文中见到名词，都可加个定语成分把句子拉长。  
+   pets (which look cute as well as healthy) can reduce loneliness (of senior citizens(without any children)).  
+   Reading books (which keep beneficial to our physical and mental health) can add knowledge of all children and adults.  
+   万能定语 which/who look ...as well as .  
+           名词复数 such as  
+           books such as Red and Black  
          
 
 英汉差异对比：
@@ -463,14 +452,13 @@ p34
 
 ### 长难句分析
 
-能够找到一句话当中的定语成分，并且把它们通顺地翻译出来。
-如何找定语？
-关键是找名词，只要名词后有一坨东西，只要这一坨东西不是动词，就暂定修饰这个名词的定语成分（还有可能是状语哦）。
-定语从名词后开始，到主句的谓语动词之前结束。如果定语在主句的谓语动词之后，定语就从名词后开始到句末结束。一个大定语中通常都会有无数个小定语，每一个小定语通常都到下一个名词后结束（但是固定搭配除外）。
+能够找到一句话当中的定语成分，并且把它们通顺地翻译出来。  
+如何找定语？  
+关键是找名词，只要名词后有一坨东西，只要这一坨东西不是动词，就暂定修饰这个名词的定语成分（还有可能是状语哦）。  
+定语从名词后开始，到主句的谓语动词之前结束。如果定语在主句的谓语动词之后，定语就从名词后开始到句末结束。一个大定语中通常都会有无数个小定语，每一个小定语通常都到下一个名词后结束（但是固定搭配除外）。  
 如果定语后连词的话，定语不再是到句末结束，而是到连词之前结束。
 
-p40
-
+---
 # 状语和状语从句
 
 1. 形容词和副词充当什么成分：
@@ -504,7 +492,7 @@ p40
 * 引导词的分类标准：
    状语从句的引导词是按照引导词本身的意思分的类，一共把引导词分为九类。
 
-### 1. 时间状语从句
+1. 时间状语从句
    * when=while=as 当while翻译为“当...的时候”，后面要跟进行时态。
    * before
    * after
