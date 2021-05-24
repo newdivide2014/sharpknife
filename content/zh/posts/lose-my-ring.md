@@ -24,6 +24,8 @@ categories: ["生活"]
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=35618549&auto=1&height=66"></iframe>
+
 唉，该说什么好呢。。。wtf
 
 今天我把自己的戒指弄丢了。。。
