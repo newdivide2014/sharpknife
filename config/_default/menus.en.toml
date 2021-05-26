@@ -30,7 +30,7 @@
     #     post = "home"
 [[main]]
         url = "/en/posts/"
-        name = "Posts"
+        name = "Archive"
         weight = 2
         pre = "internal"
         post = "archive"
