@@ -1003,10 +1003,10 @@ displaySiteCopyright = true
 # 自定义页脚（支持 Markdown）
 customFooter = ""
 
-displayBusuanziSiteUVAndPV = false
-busuanziSiteUVText = "本站访客数"
+displayBusuanziSiteUVAndPV = true
+busuanziSiteUVText = ""
 busuanziSiteUVIcon = "user"
-busuanziSitePVText = "本站访问量"
+busuanziSitePVText = ""
 busuanziSitePVIcon = "eye"
 # 说明：仅在生产环境（production）下渲染
 #      文本或图标，留空（""）则无
