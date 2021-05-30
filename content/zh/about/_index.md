@@ -1,25 +1,14 @@
 ---
-title: "About me"
+title: "About"
 date: 2021-01-16T20:24:25+08:00
-lastmod: 2021-01-16T20:24:25+08:00
 draft: false
-keywords: []
-description: "自我介绍"
+description: "关于"
 tags: []
 categories: []
 author: "嘟囔"
-trabskationKey: "about"
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-comment: true
-Showtoc: false
-autoCollapseToc: false
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: false
-reward: false
-mathjax: false
-disableShare: true
 ---
+<img src="/author.jpg" alt="博客主小亮的头像" class="img_avatar" width="200px" style="border-radius:100%">
+
 
 2021年计划
 
