@@ -1,4 +1,5 @@
 ---
+meta: false
 title: "哔哔talk-bababa"
 date: 2021-06-09T15:25:35+08:00
 draft: false
@@ -8,6 +9,8 @@ toc: false
 displayCopyright: false
 comments: true
 ---
+> **👉🏼此说说通过📱手机微信发出，记录嘟囔碎片化思考和动态。📑**
+
 
 <!-- 存放哔哔的容器 -->
 <div id="bbtalk"></div>
