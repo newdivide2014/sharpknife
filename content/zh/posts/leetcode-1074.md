@@ -1,5 +1,5 @@
 ---
-title: "1074.元素和为目标值的子矩阵数量"
+title: "Leetcode 1074.元素和为目标值的子矩阵数量"
 date: 2021-05-29T21:41:56+08:00
 description: 1074题解学习
 # weight: 1
@@ -8,7 +8,7 @@ draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 tags: ["uthash", "c", "leetcode"]
-categories: ["c"]
+categories: ["Leetcode"]
 ---
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1421191783&auto=1&height=66"></iframe>
 

@@ -58,3 +58,8 @@
 [[main]]   
         weight = 6
         identifier = "lang-switcher"
+[[main]]   
+        url = "/zh/bbtalk/"
+        name = "😂哔哔"
+        weight = 1
+        pre = "internal"

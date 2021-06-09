@@ -20,8 +20,7 @@ toc: false
 * busybox, uboot, embedded linux kernel
 
 # 正在学习的（或者忘了的重新再学的）
-* R
-* python
+* R, python
 * hugo，go
 
 
