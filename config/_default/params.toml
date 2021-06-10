@@ -5,7 +5,7 @@
 enableHeader = true
 
 # 是否自动隐藏
-enableHeaderAutoHide = true
+enableHeaderAutoHide = false
 # 说明：仅对弹性布局的顶栏有效
 
 # 是否在首页显示
@@ -14,7 +14,8 @@ displayHeaderInHome = true
 
 # 背景
 # headerBackground = "linear-gradient(90deg, #f795331a 0, #f370551a 15%, #ef4e7b1a 30%, #a166ab1a 44%, #5073b81a 58%, #1098ad1a 72%, #07b39b1a 86%, #6dba821a 100%)"
-headerBackground="linear-gradient(45deg,rgba(254,172,94,0.5),rgba(199,121,208,0.5),rgba(75,192,200,0.5))"
+# headerBackground="linear-gradient(45deg,rgba(254,172,94,0.5),rgba(199,121,208,0.5),rgba(75,192,200,0.5))"
+headerBackground="linear-gradient(45deg,rgba(75,192,200,0.5),rgba(199,121,208,0.5),rgba(75,192,200,0.5))"
 # 说明：https://developer.mozilla.org/zh-CN/docs/Web/CSS/background
 
 # 顶栏布局
@@ -22,7 +23,7 @@ headerLayout = "flex"
 # 说明：居中布局（center）或弹性布局（flex）
 
 # 在窄视图下隐藏菜单栏并显示一个按钮？
-enableNavToggle = false
+enableNavToggle = true
 
 navHeight = "10em"
 # 说明：菜单栏展开时的高度
@@ -468,9 +469,9 @@ yandexMetrikaId = ""
 duration = 0.5
 
 # 浅色模式的主色
-primaryColorLight = "220, 90%, 56%"
+primaryColorLight = "240, 100%, 40%"
 # 深色模式的主色
-primaryColorDark = "201, 65%, 62%"
+primaryColorDark = "220, 62%, 50%"
 # 注意：只支持 HSL 颜色值
 
 # 文章的内容宽度
