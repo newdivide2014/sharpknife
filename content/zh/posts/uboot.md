@@ -10,6 +10,8 @@ author: "嘟囔"
 tags: ["uboot"]
 categories: ["嵌入式"]
 ---
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=65766&auto=1&height=66"></iframe>
+
 ## uboot的作用
 
  是bootloader的一种，bootloader类似于PC上的BIOS，其作用是为操作系统的启动初始化硬件环境，加载启动操作系统。
