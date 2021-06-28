@@ -23,7 +23,7 @@ headerLayout = "flex"
 # 说明：居中布局（center）或弹性布局（flex）
 
 # 在窄视图下隐藏菜单栏并显示一个按钮？
-enableNavToggle = true
+enableNavToggle = false
 
 navHeight = "10em"
 # 说明：菜单栏展开时的高度
@@ -176,7 +176,7 @@ smallestFontSize = 1
 # 列表页面
 
 # 宽度
-listWidth = 80
+listWidth = 70
 # 说明：如果留空（""），则用 42 作为默认值
 #      单位：em
 
@@ -475,7 +475,7 @@ primaryColorDark = "220, 62%, 50%"
 # 注意：只支持 HSL 颜色值
 
 # 文章的内容宽度
-postWidth = 80
+postWidth = 70
 # 说明：如果留空（""），则用 42 作为默认值
 #      单位：em
 
