@@ -1,7 +1,7 @@
 ---
-title: "uboot相关"
+title: "uboot"
 date: 2021-06-28T15:30:47+08:00
-description: uboot学习
+description: uboot相关
 # weight: 1
 # aliases: ["/first"]
 draft: true
