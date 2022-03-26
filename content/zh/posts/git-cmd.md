@@ -6,7 +6,7 @@ draft: false
 keywords: ["git"]
 description: "git常用命令"
 tags: ["git"]
-categories: ["git"]
+categories: ["Git"]
 author: "嘟囔"
 
 

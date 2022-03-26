@@ -4,7 +4,7 @@ date: 2021-01-10T22:28:38+08:00
 lastmod: 2021-05-24T00:20:38+08:00
 draft: false
 tags: ["hugo theme"]
-categories: ["hugo theme"]
+categories: ["Hugo Theme"]
 author: "嘟囔"
 # weight: 1
 enableTOC: false

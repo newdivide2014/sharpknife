@@ -8,7 +8,7 @@ draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 tags: ["c", "access"]
-categories: ["c"]
+categories: ["C"]
 ---
 
 英文部分搬运自《Linux Programmer's Manual》

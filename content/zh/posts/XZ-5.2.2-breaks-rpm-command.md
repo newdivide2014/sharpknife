@@ -8,7 +8,7 @@ draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 tags: ["XZ"]
-categories: ["linux"]
+categories: ["Linux"]
 ---
 
 执行`yum`和`rpm`都报错了，错误如下：

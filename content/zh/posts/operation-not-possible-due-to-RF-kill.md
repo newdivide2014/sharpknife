@@ -11,7 +11,7 @@ author: "嘟囔"
 ShowToc: true
 TocOpen: true
 tags: ["wifi", "RF-kill"]
-categories: ["linux"]
+categories: ["Linux"]
 # canonicalURL: "https://canonical.url/to/page"
 # cover:
 #     image: "<image path/url>" # image path/url

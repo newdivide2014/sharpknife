@@ -8,7 +8,7 @@ draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 tags: ["python3.9.7",  “libssl.so.47”]
-categories: ["python"]
+categories: ["Python"]
 ---
 
 源码编译个`python3.9.7`安装一下子，嘎嘎！（去python官网下载去）

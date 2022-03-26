@@ -8,7 +8,7 @@ draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 tags: ["svn error"]
-categories: ["svn"]
+categories: ["Svn"]
 ---
 
 操作`svn checkout`代码的时候报错了。  

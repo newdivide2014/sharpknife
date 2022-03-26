@@ -8,7 +8,7 @@ draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 tags: ["ftp commands"]
-categories: ["ftp"]
+categories: ["Ftp"]
 ---
 
 | 序号 | FTP命令                | 说明                                                |      | 响应代码 | 解释说明                           |      | 响应代码 | 解释说明             |

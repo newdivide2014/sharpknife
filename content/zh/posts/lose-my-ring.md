@@ -11,7 +11,7 @@ author: "嘟囔"
 ShowToc: false
 TocOpen: true
 tags: ["戒指"]
-categories: ["生活"]
+categories: ["Life"]
 # canonicalURL: "https://canonical.url/to/page"
 # cover:
 #     image: "<image path/url>" # image path/url

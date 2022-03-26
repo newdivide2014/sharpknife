@@ -8,7 +8,7 @@ draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 tags: ["go"]
-categories: ["go"]
+categories: ["Go"]
 ---
 
 go语言校验密码复杂度的函数，大写、小写、数字、特殊字符。

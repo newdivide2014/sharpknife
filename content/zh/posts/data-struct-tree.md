@@ -4,12 +4,12 @@ date: 2021-05-26T00:24:44+08:00
 description: 🌲的知识点学习
 # weight: 1
 # aliases: ["/first"]
-draft: true
+draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 enableTOC: true
 tags: ["tree"]
-categories: ["数据结构"]
+categories: ["Data Structure"]
 ---
 ## 树
 
