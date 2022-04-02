@@ -23,6 +23,6 @@ int fchmod(int fd, mode_t mode);
 
 ```c++
 #include <regex>
-//c++正则
+//c++正则 C++03之前不支持
 std::regex
 ```
