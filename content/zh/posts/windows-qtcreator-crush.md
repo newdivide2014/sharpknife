@@ -11,7 +11,7 @@ author: "嘟囔"
 ShowToc: false
 TocOpen: true
 tags: ["qt", "qtcreator"]
-categories: ["qt"]
+categories: ["Qt"]
 # canonicalURL: "https://canonical.url/to/page"
 # cover:
 #     image: "<image path/url>" # image path/url

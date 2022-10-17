@@ -10,7 +10,7 @@ author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 enableTOC: true
 tags: ["first"]
-categories: ["hugo"]
+categories: ["Hugo"]
 ---
 语言
 C 和 C++ 的区别

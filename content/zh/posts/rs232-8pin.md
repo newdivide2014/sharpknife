@@ -11,7 +11,7 @@ author: "嘟囔"
 ShowToc: false
 TocOpen: true
 tags: ["RS232"]
-categories: ["硬件相关"]
+categories: ["Hardware"]
 # canonicalURL: "https://canonical.url/to/page"
 cover:
     image: "/images/posts/DSC_0810.JPG" # image path/url

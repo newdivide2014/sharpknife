@@ -1,12 +1,12 @@
 ---
 title: "git常用命令"
 date: 2021-01-16T20:30:40+08:00
-lastmod: 2021-04-21T12:46:20+08:00
+lastmod: 2022-03-30T10:39:20+08:00
 draft: false
 keywords: ["git"]
 description: "git常用命令"
 tags: ["git"]
-categories: ["git"]
+categories: ["Git"]
 author: "嘟囔"
 
 
@@ -67,6 +67,33 @@ author: "嘟囔"
 
 10. 查看你曾使用过的git命令
     git reflog用来记录你的每一次命令
+
+### 给已经存在的本地项目添加git
+
+先进入到项目的目录。
+
+1. 初始化本地仓库
+   
+        git init
+
+2. 把项目的所有文件都添加到仓库中
+        
+        git add .
+
+3. 添加注释
+
+        git commit -m "Initial commit"
+
+4. 绑定要推送到的远程仓库
+
+        git remote add origin "远程仓库地址"
+        //示例：
+        git remote add origin https://git.test.com/gittest.git
+
+5. 把本地文件推送到远程仓库
+
+        git push -u origin master
+
 ### git分支相关
 
 1. 推送远程分支

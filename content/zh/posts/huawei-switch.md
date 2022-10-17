@@ -6,7 +6,7 @@ date: 2020-11-23T16:14:12+08:00
 tags: ["华为", "交换机"]
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
-
+categories: ["Linux"]
 draft: false
 hidemeta: false
 comments: true

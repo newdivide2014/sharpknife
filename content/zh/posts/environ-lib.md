@@ -8,7 +8,7 @@ draft: false
 author: "嘟囔"
 # author: ["Me", "You"] # multiple authors
 tags: ["environ"]
-categories: ["linux"]
+categories: ["Linux"]
 ---
 ## 简介
 
