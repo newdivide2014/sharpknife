@@ -1,11 +1,3 @@
-<!--
- * @Author: bao newdivide2014@outlook.com
- * @Date: 2021-10-28 21:39:56
- * @LastEditors: bao newdivide2014@outlook.com
- * @LastEditTime: 2022-08-26 14:49:01
- * @FilePath: \zb-fw-fix-buge:\04_git\sharpknife\content\zh\posts\linux-tar-cmd.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 ---
 title: "Linux命令备忘"
 date: 2021-04-11T20:12:03+08:00

@@ -88,6 +88,18 @@ unique_ptr<int> p3 = new int(3);//错误
 
 unique_ptr<int> p4(new int(5));
 unique_str<int> p5(p4.release());
+
+//主动释放unique_ptr
+//unique_ptr当离开作用域范围就会自动释放
+//但是有时希望可以主动释放unique_ptr指向的内存空间
+//直接把nullptr赋值给智能指针就可以了
+int main()
+{
+    std::unique_ptr<int> p(new int(1));
+    p = nullptr; //主动释放
+
+    return 0;
+}
 ```
 
 ## weak_ptr
