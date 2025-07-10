@@ -2,13 +2,16 @@
 # 站点配置
 
 baseURL = "https://newdivide2014.github.io"
-title = "嘟囔学习小站"
-hasCJKLanguage = true
-# 版权信息（支持 Markdown）
-copyright = "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)"
+title = "柔蓝的小站"
+
+# language code ["en", "zh-CN", "fr", "pl", ...]
+languageCode = "zh-CN"
+# language name ["English", "简体中文", "Français", "Polski", ...]
+languageName = "简体中文"
 
 # 主题选择
-theme = "meme"
+theme = "LoveIt"
+
 
 # `hugo new` 新建文章自动打开的文本编辑器
 newContentEditor = ""
