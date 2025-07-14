@@ -5,7 +5,7 @@ description: 1074题解学习
 # weight: 1
 # aliases: ["/first"]
 draft: false
-author: "嘟囔"
+author: "蓝红柿"
 # author: ["Me", "You"] # multiple authors
 tags: ["uthash", "c", "leetcode"]
 categories: ["Leetcode"]

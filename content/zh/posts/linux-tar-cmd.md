@@ -6,7 +6,7 @@ draft: false
 keywords: ["linux cmd"]
 tags: ["linux cmd"]
 categories: ["linux cmd"]
-author: "嘟囔"
+author: "蓝红柿"
 authorEmoji: 👺
 cover:
     image: "/images/post/DSC_0803.JPG"

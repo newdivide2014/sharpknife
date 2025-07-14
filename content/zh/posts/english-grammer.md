@@ -6,7 +6,7 @@ description: "刘晓艳的语法课笔记"
 # weight: 1
 # aliases: ["/first"]
 draft: false
-author: "嘟囔"
+author: "蓝红柿"
 # author: ["Me", "You"] # multiple authors
 enableTOC: true
 tags: ["英语语法"]

@@ -7,7 +7,7 @@ keywords: ["git"]
 description: "git常用命令"
 tags: ["git"]
 categories: ["git"]
-author: "嘟囔"
+author: "蓝红柿"
 
 
 ---

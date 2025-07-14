@@ -5,7 +5,7 @@ lastmod: 2021-05-24T00:20:38+08:00
 draft: false
 tags: ["hugo theme"]
 categories: ["hugo theme"]
-author: "嘟囔"
+author: "蓝红柿"
 # weight: 1
 enableTOC: false
 ---

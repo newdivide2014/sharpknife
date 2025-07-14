@@ -4,7 +4,7 @@ date: 2021-04-24T22:53:56+08:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["qt"]
-author: "嘟囔"
+author: "蓝红柿"
 # author: ["Me", "You"] # multiple authors
 
 draft: false

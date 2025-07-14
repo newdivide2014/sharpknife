@@ -5,7 +5,7 @@ theme = "FixIt"
 
 # i18n
 defaultContentLanguage = "zh"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 
 enableEmoji = true
 enableRobotsTXT = true

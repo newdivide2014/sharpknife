@@ -5,7 +5,7 @@ description: 🌲的知识点学习
 # weight: 1
 # aliases: ["/first"]
 draft: true
-author: "嘟囔"
+author: "蓝红柿"
 # author: ["Me", "You"] # multiple authors
 enableTOC: true
 tags: ["tree"]

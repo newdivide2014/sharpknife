@@ -1,6 +1,5 @@
 /**
  * 源码来自互联网，作者不详
- * @modified by Lruihao 2024-05-21 移除依赖 jQuery
  * @description 一个鱼游动的动画效果
  */
 const RENDERER = {
