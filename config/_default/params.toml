@@ -37,7 +37,7 @@ disableThemeInject = false
 
 # Author Configuration
 [author]
-  name = "柔蓝"
+  name = "蓝红柿"
   email = "newdivide2014@outlook.com"
 #  link = "https://github.com/Lruihao"
   avatar = "/icons/apple-touch-icon.png"
@@ -56,7 +56,7 @@ disableThemeInject = false
 # App icon config
 [app]
   # optional site title override for the app when added to an iOS home screen or Android launcher
-  title = "柔蓝"
+  title = "蓝红柿"
   # whether to omit favicon resource links
   noFavicon = false
   # modern SVG favicon to use in place of older style .png and .ico files
@@ -116,7 +116,7 @@ disableThemeInject = false
     # URL of the LOGO
     logo = "/icons/apple-touch-icon.png"
     # title name
-    name = "柔蓝"
+    name = "蓝红柿"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
@@ -126,7 +126,7 @@ disableThemeInject = false
   # FixIt 0.2.12 | NEW Header subtitle config
   [header.subtitle]
     # subtitle name
-    name = "每天进步一点点"
+    name = "Fortune favors the brave."
     # whether to use typeit animation for subtitle name
     typeit = true
 
@@ -272,10 +272,10 @@ disableThemeInject = false
   Douyin = "MS4wLjABAAAA4BGZCnH5cCegxZw0O9OGxYqlISEIuJwJPOt6qU1LhZaw0uqYdrf1IlweE-uJNFT7?from_tab_name=main"
   # custom social links like the following
   [social.weixin]
-    id = "qr-wx-mp_s.webp"
+    id = "WeChatQR.jpg" # static文件夹下的图片
     weight = 20
-    Template = "https://lruihao.cn/images/%v"
-    Title = "加我微信：关注公众号回复“Cell”"
+    Template = "/%v/"
+    Title = "关注公众号"
     [social.weixin.icon]
       Class = "fa-brands fa-weixin fa-fw"
   # [social.FixIt]
@@ -328,8 +328,8 @@ disableThemeInject = false
   # FixIt 0.2.17 | NEW whether to enable readingTime
   readingTime = true
   # FixIt 0.2.17 | NEW end of post flag
-  # endFlag = "（本文完）"
-  endFlag = "「本文完，更多内容汇总在我的 GitHub，持续更新，求关注、求 star、求订阅！」"
+   endFlag = "（本文完）"
+  # endFlag = "「本文完，更多内容汇总在我的 GitHub，持续更新，求关注、求 star、求订阅！」"
   # FixIt 0.2.18 | NEW whether to enable instant.page
   instantPage = true
   # FixIt 0.3.0 | NEW whether to enable collection list at the sidebar

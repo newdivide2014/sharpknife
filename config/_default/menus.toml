@@ -89,16 +89,16 @@
 #   weight = 6
 #   [main.params]
 #     icon = "fa-solid fa-hand-holding-dollar"
-[[main]]
-  identifier = "guestbook"
-  pre = ""
-  post = ""
-  name = "留言"
-  url = "/guestbook/"
-  title = ""
-  weight = 7
-  [main.params]
-    icon = "fa-solid fa-comment-dots"
+# [[main]]
+#   identifier = "guestbook"
+#   pre = ""
+#   post = ""
+#   name = "留言"
+#   url = "/guestbook/"
+#   title = ""
+#   weight = 7
+#   [main.params]
+#     icon = "fa-solid fa-comment-dots"
 [[main]]
   identifier = "rss"
   pre = ""
