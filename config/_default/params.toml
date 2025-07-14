@@ -596,7 +596,7 @@ disableThemeInject = false
 
 # FixIt 0.2.14 | NEW GitHub banner in the top-right or top-left corner
 [githubCorner]
-  enable = true
+  enable = false
   permalink = "https://github.com/Lruihao/hugo-blog"
   title = "在 GitHub 上查看源码，订阅请点 Watch~"
   position = "right" # ["left", "right"]
