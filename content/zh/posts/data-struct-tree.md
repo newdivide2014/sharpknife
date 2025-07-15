@@ -6,7 +6,6 @@ description: 🌲的知识点学习
 # aliases: ["/first"]
 draft: true
 author: "蓝红柿"
-# author: ["Me", "You"] # multiple authors
 enableTOC: true
 tags: ["tree"]
 categories: ["数据结构"]
