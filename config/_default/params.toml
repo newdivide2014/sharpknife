@@ -8,7 +8,7 @@ version = "0.3.X"
 # site description
 description = ""
 # site keywords
-# keywords = ["李瑞豪", "李瑞豪的博客", "菠菜眾長", "博採眾長", "Lruihao", "Cell", "Hugo FixIt"]
+# keywords = ["张三", "张三的博客", "Cell", "Hugo FixIt"]
 # site default theme ("light", "dark", "auto")
 defaultTheme = "auto"
 # date format
@@ -425,7 +425,8 @@ disableThemeInject = false
     position = ["aside", "footer"]
   # FixIt 0.2.17 | NEW Donate (Sponsor) settings
   [page.reward]
-    enable = true
+    # enable = true
+    enable = false
     animation = true
     # position relative to post footer, optional value: ["before", "after"]
     position = "before"
@@ -494,7 +495,7 @@ disableThemeInject = false
 [watermark]
   enable = false
   # watermark's text (HTML format is supported)
-  content = '<img style="height: 0.85rem;" src="/logo.webp" alt="logo" /> 李瑞豪'
+  content = '<img style="height: 0.85rem;" src="/logo.webp" alt="logo" /> 张三'
   # watermark's transparency
   opacity = 0.0125
   # watermark's width. unit: px
