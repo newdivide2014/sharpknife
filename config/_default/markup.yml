@@ -1,0 +1,9 @@
+
+highlight:
+  codeFences: true
+  lineNos: true
+  lineNumbersInTable: true
+  noClasses: false
+  ########## necessary configurations ##########
+  guessSyntax: true
+

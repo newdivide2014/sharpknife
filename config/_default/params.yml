@@ -1,6 +1,6 @@
 env: production # to enable google analytics, opengraph, twitter-cards and schema.
-description: "嘟囔的学习备忘录"
-author: 嘟囔
+description: "蓝红柿的学习备忘录"
+author: 蓝红柿
 # author: ["Me", "You"] # multiple authors
 # images: ["<link or path of image for opengraph, twitter-cards>"]
 images: ["/author.jpg"]
@@ -23,9 +23,9 @@ comments: false
 
 profileMode:
     enabled: false
-    title: 嘟囔
+    title: 蓝红柿
     imageUrl: "images/author.jpg"
-    imageTitle: 嘟囔
+    imageTitle: 蓝红柿
     imageWidth: 120
     imageHeight: 120
     buttons:
@@ -50,7 +50,7 @@ socialIcons:
       url: "mailto:newdivide7037@gmail.com"
          
 label:
-    text: "嘟囔"
+    text: "蓝红柿"
     icon: /images/posts/DSC_0803.JPG
     iconHeight: 35
 
