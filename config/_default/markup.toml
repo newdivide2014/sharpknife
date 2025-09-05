@@ -20,7 +20,7 @@
     definitionList = true
     footnote = true
     linkify = true
-    strikethrough = false
+    strikethrough = true
     table = true
     taskList = true
     typographer = true
