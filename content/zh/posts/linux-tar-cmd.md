@@ -8,13 +8,13 @@ tags: ["linux cmd"]
 categories: ["linux cmd"]
 author: "嘟囔"
 authorEmoji: 👺
-cover:
-    image: "/images/posts/DSC_0803.JPG"
-    # can also paste direct link from external site
-    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "<alt text>"
-    caption: "俺家狗子"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
+# cover:
+#     image: "/images/posts/DSC_0803.JPG"
+#     # can also paste direct link from external site
+#     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+#     alt: "<alt text>"
+#     caption: "俺家狗子"
+#     relative: false # To use relative path for cover image, used in hugo Page-bundles
 
 ---
 

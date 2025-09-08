@@ -13,12 +13,12 @@ TocOpen: false
 tags: ["English"]
 categories: ["English Study"]
 # canonicalURL: "https://canonical.url/to/page"
-cover:
-    image: "/images/posts/DSC_0812.JPG" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    linkFullImages: true
+# cover:
+#     image: "/images/posts/DSC_0812.JPG" # image path/url
+#     alt: "<alt text>" # alt text
+#     caption: "<text>" # display caption under cover
+#     relative: false # when using page bundles set this to true
+#     linkFullImages: true
 # editPost:
 #     URL: "https://github.com/<path_to_repo>/content"
 #     Text: "Suggest Changes" # edit text

@@ -1,5 +1,5 @@
 baseURL: "https://newdivide2014.github.io"
-theme: PaperMod
+theme: congo
 title: 蓝红柿
 
 defaultContentLanguage: "zh"
@@ -14,3 +14,4 @@ taxonomies:
     category: categories
     tag: tags
     series: series
+    topic: topics

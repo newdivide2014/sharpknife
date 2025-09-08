@@ -1,13 +1,13 @@
 main:
-  - name: Search
-    url: search/
-    weight: 5
+  # - name: Search
+  #   pageRef: search/
+  #   weight: 5
   - name: Archives
-    url: archives/
+    pageRef: posts/
     weight: 10
   - name: Tags
-    url: tags/
+    pageRef: tags/
     weight: 15
   - name: Categories
-    url: categories/
+    pageRef: categories/
     weight: 20

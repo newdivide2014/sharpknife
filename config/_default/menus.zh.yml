@@ -1,16 +1,19 @@
 main:
-  - name: 搜索
-    url: search/
-    weight: 5
+  # - name: 搜索
+  #   pageRef: search/
+  #   weight: 99
   - name: 归档
-    url: archives/
+    pageRef: posts/
     weight: 10
   - name: 标签
-    url: tags/
+    pageRef: tags/
     weight: 15
   - name: 分类
-    url: categories/
+    pageRef: categories/
     weight: 20
-  - name: 关于
-    url: about/
+  - name: 主题
+    pageRef: topics/
     weight: 25
+  - name: 关于
+    pageRef: about/
+    weight: 30

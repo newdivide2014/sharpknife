@@ -6,16 +6,20 @@ draft: false
 description: ""
 author: "蓝红柿"
 authorEmoji: 👺
-cover:
-    image: "/WeChatQR.jpg"
-    # can also paste direct link from external site
-    # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
-    alt: "欢迎来玩"
-    caption: "我的微信公众号"
-    relative: false # To use relative path for cover image, used in hugo Page-bundles
+# cover:
+#     image: "/WeChatQR.jpg"
+#     # can also paste direct link from external site
+#     # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+#     alt: "欢迎来玩"
+#     caption: "我的微信公众号"
+#     relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-平时也写写公众号，内容主要是非IT技术，兴趣，爱好，生活随笔类的。欢迎来玩~
+{{< lead >}}
+平时也写写公众号，内容主要是非IT技术，兴趣，爱好，生活随笔类的。欢迎来玩~  :heart_eyes:
+{{< /lead >}}
+
+![量子跳跃](./img/WeChatQR.jpg "{{< icon gongzhonghao >}} 微信公众号 · 量子跳跃")
 
 ---
 2021年计划

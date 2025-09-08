@@ -1,12 +1,37 @@
-env: production # to enable google analytics, opengraph, twitter-cards and schema.
 description: "蓝红柿的学习备忘录"
-author: 蓝红柿
-# author: ["Me", "You"] # multiple authors
-# images: ["<link or path of image for opengraph, twitter-cards>"]
-images: ["/author.jpg"]
 DateFormat: "January 2, 2006"
 defaultTheme: auto
+autoSwitchAppearance: true
+colorScheme: Avocado
 
+homepage:
+  layout: profile
+  showRecent: true
+  recentLimit: 10
+# congo（默认）、avocado、cherry、fire、ocean、sapphire和slate。
+
+article:
+  showDate: true
+  showDateUpdated: true
+  showAuthor: true
+  showBreadcrumbs: true
+  showDraftLabel: true
+  showHeadingAnchors: true
+  showReadingTime: true
+  showTableOfContents: true
+  showWordCount: true
+  showTaxonomies: true
+  showComments: true
+
+list:
+  showBreadcrumbs: true
+  showTableOfContents: true
+  showTaxonomies: true
+  showSummary: false
+  groupByYear: true
+  # paginationWidth: true
+
+enableCodeCopy: true
 ShowToc: true
 tocopen: true
 ShowWordCount: true
@@ -21,46 +46,16 @@ ShowBreadCrumbs: true
 hidemeta: false
 hideSummary: false
 comments: true
- 
-            
-socialIcons:
-    # - name: github
-    #   url: "https://github.com/adityatelange/hugo-PaperMod"
-    #- name: RsS
-    #  url: "index.xml"
-    - name: email
-      url: "mailto:newdivide2014@outlook.com"
-    - name: tiktok
-      url: "https://www.douyin.com/user/MS4wLjABAAAA4BGZCnH5cCegxZw0O9OGxYqlISEIuJwJPOt6qU1LhZaw0uqYdrf1IlweE-uJNFT7?from_tab_name=main"
 
-         
-label:
-    text: "蓝红柿"
-    icon: /images/posts/DSC_0803.JPG
-    iconHeight: 35
+header:
+  layout: hybrid
+  logo: img/author.jpg
+  logoDark: img/author.jpg
+  showTitle: false
+  showCopyright: true
 
-# analytics:
-#     google:
-#         SiteVerificationTag: "XYZabc"
-
-assets:
-    disableHLJS: true
-    #     favicon: "<link / abs url>"
-    #     favicon16x16: "<link / abs url>"
-    #     favicon32x32: "<link / abs url>"
-    #     apple_touch_icon: "<link / abs url>"
-    #     safari_pinned_tab: "<link / abs url>"
-
-    # cover:
-    #     hidden: true # hide everywhere but not in structured data
-    #     hiddenInList: true # hide on list pages and home
-    #     hiddenInSingle: true # hide on single page
-
-    # fuseOpts:
-    #     isCaseSensitive: false
-    #     shouldSort: true
-    #     location: 0
-    #     distance: 1000
-    #     threshold: 0.4
-    #     minMatchCharLength: 0
-    #     keys: ["title", "permalink", "summary", "content"]
+footer:
+  showCopyright: true
+  showThemeAttribution: true
+  showAppearanceSwitcher: true
+  showScrollToTop: true         

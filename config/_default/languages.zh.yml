@@ -1,12 +1,16 @@
 languageName: "中文"
-weight: 1
+pageRefweight: 1
 title: 蓝红柿
 contentdir: "content/zh/"
 hasCJKLanguage: true
 copyright: "本站内容采用 CC BY-NC-SA 4.0 国际许可协议。"
 
 params:
-    homeInfoParams:
-        Title: "一路朗月清风似明昭"
-        Content: >
-              🌟  大丈夫之志 应如长江东奔大海 行于乱世 当光明磊落 出身寒微 不是耻辱 能屈能伸 方为丈夫  🌟
+    author:
+        name: 蓝红柿
+        images: img/author.jpg
+        headline: 一路朗月清风似明昭
+        bio: 🌟  大丈夫之志 应如长江东奔大海 行于乱世 当光明磊落 出身寒微 不是耻辱 能屈能伸 方为丈夫  🌟
+        links: 
+            - email: "mailto:newdivide2014@outlook.com"
+            - tiktok: https://www.douyin.com/user/MS4wLjABAAAA4BGZCnH5cCegxZw0O9OGxYqlISEIuJwJPOt6qU1LhZaw0uqYdrf1IlweE-uJNFT7?from_tab_name=main
