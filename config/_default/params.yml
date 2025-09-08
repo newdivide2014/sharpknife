@@ -6,8 +6,10 @@ author: 蓝红柿
 images: ["/author.jpg"]
 DateFormat: "January 2, 2006"
 defaultTheme: auto
-# disableThemeToggle: true
 
+ShowToc: true
+tocopen: true
+ShowWordCount: true
 ShowShareButtons: true
 ShowReadingTime: true
 ShowCodeCopyButtons: true
@@ -18,36 +20,19 @@ ShowPostNavLinks: true
 ShowBreadCrumbs: true
 hidemeta: false
 hideSummary: false
-comments: false
-
-
-profileMode:
-    enabled: false
-    title: 蓝红柿
-    imageUrl: "images/author.jpg"
-    imageTitle: 蓝红柿
-    imageWidth: 120
-    imageHeight: 120
-    buttons:
-        - name: Archives
-          url: archives
-        - name: Tags
-          url: tags
-
-homeInfoParams:
-    Title: "一路朗月清风似明昭"
-    Content: >
-          🌟 🌟 🌟 🌟 🌟 
+comments: true
+ 
             
 socialIcons:
     # - name: github
     #   url: "https://github.com/adityatelange/hugo-PaperMod"
-    # - name: KoFi
-    #   url: "https://ko-fi.com/adityatelange"
-    # - name: RsS
-    #   url: "index.xml"
+    #- name: RsS
+    #  url: "index.xml"
     - name: email
-      url: "mailto:newdivide7037@gmail.com"
+      url: "mailto:newdivide2014@outlook.com"
+    - name: tiktok
+      url: "https://www.douyin.com/user/MS4wLjABAAAA4BGZCnH5cCegxZw0O9OGxYqlISEIuJwJPOt6qU1LhZaw0uqYdrf1IlweE-uJNFT7?from_tab_name=main"
+
          
 label:
     text: "蓝红柿"

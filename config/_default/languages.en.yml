@@ -5,6 +5,7 @@ contentdir: "content/en/"
 hasCJKLanguage: false
 copyright: "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
-homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to Blue Tomato's home
+params:
+    homeInfoParams:
+        Title: "Fortune favors the brave. \U0001F44B"
+        Content: Welcome to Blue Tomato's home
