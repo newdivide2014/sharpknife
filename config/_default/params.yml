@@ -2,12 +2,12 @@ description: "蓝红柿的学习备忘录"
 DateFormat: "January 2, 2006"
 defaultTheme: auto
 autoSwitchAppearance: true
-colorScheme: Avocado
+colorScheme: avocado
 
 homepage:
   layout: profile
   showRecent: true
-  recentLimit: 10
+  recentLimit: 7
 # congo（默认）、avocado、cherry、fire、ocean、sapphire和slate。
 
 article:
@@ -22,6 +22,7 @@ article:
   showWordCount: true
   showTaxonomies: true
   showComments: true
+  showPagination: true
 
 list:
   showBreadcrumbs: true
@@ -58,4 +59,4 @@ footer:
   showCopyright: true
   showThemeAttribution: true
   showAppearanceSwitcher: true
-  showScrollToTop: true         
+  showScrollToTop: true

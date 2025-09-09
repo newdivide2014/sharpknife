@@ -6,6 +6,11 @@ hasCJKLanguage: false
 copyright: "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 params:
-    homeInfoParams:
-        Title: "Fortune favors the brave. \U0001F44B"
-        Content: Welcome to Blue Tomato's home
+    author:
+        name: "Blue Tomato"
+        image: android-chrome-512x512.png
+        headline: "Fortune favors the brave. \U0001F44B"
+        bio: "Welcome to Blue Tomato's home"
+        links: 
+            - email: "mailto:newdivide2014@outlook.com"
+            - tiktok: https://www.douyin.com/user/MS4wLjABAAAA4BGZCnH5cCegxZw0O9OGxYqlISEIuJwJPOt6qU1LhZaw0uqYdrf1IlweE-uJNFT7?from_tab_name=main
